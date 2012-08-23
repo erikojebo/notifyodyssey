@@ -1,0 +1,7 @@
+Approaches:
+* DONE AOP with Unity
+* DONE Macro i Boo
+* TODO Dynamic
+* TODO Roslyn 
+* TODO IronRuby
+* TODO (PostSharp)
