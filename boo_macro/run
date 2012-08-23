@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/cygdrive/c/stuff/boo/bin/booc -o:notifyodyssey.exe nprop.boo app.boo
+./notifyodyssey.exe
