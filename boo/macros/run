@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cp src/*.xaml bin/
+../lib/booc -o:bin/notifyodyssey.exe src/nprop.boo src/app.boo
+./bin/notifyodyssey.exe

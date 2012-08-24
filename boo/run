@@ -1,5 +1,0 @@
-#!/bin/bash
-
-cp *.xaml bin/
-/cygdrive/c/stuff/boo/bin/booc -o:bin/notifyodyssey.exe nprop.boo app.boo
-./bin/notifyodyssey.exe
